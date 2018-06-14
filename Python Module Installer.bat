@@ -1,0 +1,17 @@
+pip install wxPython
+pip install Pillow
+pip install SQLAlchemy
+pip install BeautifulSoup
+pip install Twisted
+pip install NumPy
+pip install SciPy
+pip install matplotlib
+pip install Pygame
+pip install Pyglet
+pip install pyQT
+pip install pyGtk
+pip install Scapy
+pip install pywin32
+pip install nose
+pip install SymPy
+pip install IPython
